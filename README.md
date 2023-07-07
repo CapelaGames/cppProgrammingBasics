@@ -1,4 +1,4 @@
-# cppProgrammingBasics
+# C++ Programming Basics
 
 Still under construction.
 
