@@ -21,7 +21,11 @@ We use the Header .h file to set up our class with variables and functions/metho
 
 ## -> vs .
 
+## #pragma once
 
+## #include 
+
+## class above our header file class
 
 
 
