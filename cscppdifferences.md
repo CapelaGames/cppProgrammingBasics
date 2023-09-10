@@ -28,4 +28,8 @@ We use the Header .h file to set up our class with variables and functions/metho
 ## class above our header file class
 
 
+## :: scope resolution operator
+`FMath::Sin(float x);`
+The :: allows you to specify the scope of the variable or function. For example, Sin() function from FMath.
 
+https://learn.microsoft.com/en-us/windows/win32/multimedia/the-scope-resolution-operator-in-c
