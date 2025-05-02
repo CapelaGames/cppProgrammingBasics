@@ -5,7 +5,7 @@
     - High level = Python
     - Low level = Assembly
 
-## Advantages of C++
+### Advantages of C++
 - Very widely used / supported
 - Many libraries available
 - Resulting code can be very fast
@@ -14,13 +14,17 @@
 - Code is highly customizable
 - C++ will be around for a long time
 
-## Disadvantages of C++
+### Disadvantages of C++
 - Easy to write unsafe code / crashes
 - Must manage your own memory
 (RAII will save us from these downsides)
 - Syntax can be a little confusing
 - Can be hard to read others' code due to custom definitions / op overloading
 - Compiler/linker errors can be hard to interpert 
+
+### In browser tutorial
+[cplusplus turoial (code in browser)](https://cplusplus.com/doc/tutorial/)
+
 
 ## Hello world
 
